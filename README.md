@@ -2,6 +2,8 @@
 
 This repository demonstrates how to set up a debugger for Go microservices running in Docker using [Delve](https://github.com/go-delve/delve). This setup allows for remote debugging of Go applications running in a Docker container, eliminating the need to constantly add logging statements and redeploy.
 
+This repository serves as a demonstration of the concepts discussed in my article on [dev.to](https://dev.to/empire/remote-debugging-go-app-1nml).
+
 ## Getting Started
 
 ### Prerequisites
