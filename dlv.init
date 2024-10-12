@@ -1,0 +1,2 @@
+break main.main.func1
+config substitute-path /app PWD
