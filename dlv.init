@@ -1,2 +1,3 @@
-break main.main.func1
 config substitute-path /app PWD
+config substitute-path /usr/local/go/ HOME/sdk/go1.23.1/
+break main.main.func1
